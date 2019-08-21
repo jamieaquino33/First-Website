@@ -1,0 +1,21 @@
+
+h1 {
+    border-width: 5px;
+    border-color: darkblue;
+    border-style: dotted;
+    border-radius: 15px;
+    font-size: 55px;
+}
+h1:hover {
+    background-color: darkgreen;
+}
+
+p {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+}
+img { 
+    text-align: right;
+}
